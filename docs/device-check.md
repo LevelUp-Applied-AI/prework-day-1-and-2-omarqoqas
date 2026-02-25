@@ -1,8 +1,8 @@
-# Device Check — [Your Name]
+# Device Check — [omar qoqas]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-02-25]
+**GitHub username:** [omarqoqas]
 
 ---
 
