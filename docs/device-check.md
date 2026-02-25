@@ -11,13 +11,13 @@
 | Specification | Your value |
 |---------------|------------|<img width="691" height="21" alt="Screenshot 2026-02-25 123341" src="https://github.com/user-attachments/assets/2526c32e-9956-4775-9c58-2f44473e3dae" />
 
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
+| Operating System | (windows 11) |
+| OS Build / Version | 10.0.26200 |
+| RAM | ( 8 GB) |
+| CPU Model | ( Intel Core i7-12700H) |
+| CPU Cores | 4 |
+| Free Disk Space | (60 GB free) |
+| Internet Speed (Download) | (186.34 Mbps) |
 
 ---
 
@@ -35,14 +35,16 @@ d test result
  confirmed
 
 **Windows only:**
-- [ ] Screenshot: `wsl -l -v` output showing WSL 2
-- [ ] Screenshot: `wsl --status` output
+- [ <img width="629" height="91" alt="Screenshot 2026-02-25 135131" src="https://github.com/user-attachments/assets/10eb1d8e-aad7-41f8-bea4-e1fe2a99ae2a" />
+] Screenshot: `wsl -l -v` output showing WSL 2
+- [ <img width="501" height="105" alt="image" src="https://github.com/user-attachments/assets/c7af13be-d3ee-49f1-adc1-4f52a8d8cae3" />
+] Screenshot: `wsl --status` output
 
 ---
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+**Result:** ["Confirmed via System Settings"]
 
 ---
 
