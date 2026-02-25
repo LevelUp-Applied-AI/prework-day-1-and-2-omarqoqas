@@ -48,4 +48,4 @@ d test result
 
 ## Device Notes
 
-[Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+[None]
